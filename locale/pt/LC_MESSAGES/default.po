@@ -1000,63 +1000,63 @@ msgstr ""
 #. fmEditorOptionsDialog..SpTBXPanel1..TabControl..KeyStrokes..gbKeyStrokes..Label5..Caption
 #: dlgSynEditOptions.dfm:117
 msgid "Command:"
-msgstr ""
+msgstr "Comando"
 
 #. fmEditorOptionsDialog..SpTBXPanel1..TabControl..KeyStrokes..gbKeyStrokes..Label6..Caption
 #. fmEditorOptionsDialog..SpTBXPanel1..TabControl..KeyStrokes..gbKeyStrokes..Label7..Caption
 #: dlgSynEditOptions.dfm:124 dlgSynEditOptions.dfm:131
 msgid "Keystroke:"
-msgstr ""
+msgstr "Curso chave"
 
 #. fmEditorOptionsDialog..SpTBXPanel1..TabControl..Color..GroupBox1..Caption
 #: dlgSynEditOptions.dfm:227
 msgid " Text attributes "
-msgstr ""
+msgstr "Atributos de texto"
 
 #. fmEditorOptionsDialog..SpTBXPanel1..TabControl..Color..GroupBox1..cbxElementBold..Caption
 #: dlgSynEditOptions.dfm:235
 msgid "&Bold"
-msgstr ""
+msgstr "&Negrito"
 
 #. fmEditorOptionsDialog..SpTBXPanel1..TabControl..Color..GroupBox1..cbxElementItalic..Caption
 #: dlgSynEditOptions.dfm:246
 msgid "&Italic"
-msgstr ""
+msgstr "&Italica"
 
 #. fmEditorOptionsDialog..SpTBXPanel1..TabControl..Color..GroupBox1..cbxElementUnderline..Caption
 #: dlgSynEditOptions.dfm:257
 msgid "&Underline"
-msgstr ""
+msgstr "&Sublinhado"
 
 #. fmEditorOptionsDialog..SpTBXPanel1..TabControl..Color..GroupBox1..cbxElementStrikeout..Caption
 #: dlgSynEditOptions.dfm:268
 msgid "&Strike Out"
-msgstr ""
+msgstr "&Cortar"
 
 #. fmEditorOptionsDialog..SpTBXPanel1..TabControl..Color..Label11..Caption
 #: dlgSynEditOptions.dfm:302
 msgid "&Element:"
-msgstr ""
+msgstr "&Elemento:"
 
 #. fmEditorOptionsDialog..SpTBXPanel1..TabControl..Color..Label12..Caption
 #: dlgSynEditOptions.dfm:309
 msgid "&Foreground Color:"
-msgstr ""
+msgstr "&Cor do primeiro Plano:"
 
 #. fmEditorOptionsDialog..SpTBXPanel1..TabControl..Color..Label13..Caption
 #: dlgSynEditOptions.dfm:316
 msgid "B&ackground Color:"
-msgstr ""
+msgstr "C&or de Fundo:"
 
 #. fmEditorOptionsDialog..SpTBXPanel1..TabControl..Color..Label14..Caption
 #: dlgSynEditOptions.dfm:323
 msgid "Code Sample"
-msgstr ""
+msgstr "Código de Exemplo"
 
 #. fmEditorOptionsDialog..SpTBXPanel1..TabControl..Color..Label15..Caption
 #: dlgSynEditOptions.dfm:330
 msgid "Editor Syntax Language"
-msgstr ""
+msgstr "Sintax do editor idioma"
 
 #. fmEditorOptionsDialog..SpTBXPanel1..TabControl..Options..gbOptions..ckAutoIndent....Hint
 #: dlgSynEditOptions.dfm:402
@@ -1064,11 +1064,13 @@ msgid ""
 "Will indent the caret on new lines with the same amount of leading white "
 "space as the preceding line"
 msgstr ""
+"Será que recuar o acento circunflexo em novas linhas com a mesma quantidade de precedente branco"
+"o espaço como a linha anterior"
 
 #. fmEditorOptionsDialog..SpTBXPanel1..TabControl..Options..gbOptions..ckAutoIndent..Caption
 #: dlgSynEditOptions.dfm:403
 msgid "Auto indent"
-msgstr ""
+msgstr "Identação Automática"
 
 #. fmEditorOptionsDialog..SpTBXPanel1..TabControl..Options..gbOptions..ckDragAndDropEditing....Hint
 #: dlgSynEditOptions.dfm:414
@@ -1076,21 +1078,23 @@ msgid ""
 "Allows you to select a block of text and drag it within the document to "
 "another location"
 msgstr ""
+"Permite selecionar um bloco de texto e arrasta-lo dentro do documento para"
+"outro local"
 
 #. fmEditorOptionsDialog..SpTBXPanel1..TabControl..Options..gbOptions..ckDragAndDropEditing..Caption
 #: dlgSynEditOptions.dfm:415
 msgid "Drag and drop editing"
-msgstr ""
+msgstr "Edição de Arrastar e Soltar"
 
 #. fmEditorOptionsDialog..SpTBXPanel1..TabControl..Options..gbOptions..ckWordWrap..Hint
 #: dlgSynEditOptions.dfm:424
 msgid "Allows the editor accept OLE file drops"
-msgstr ""
+msgstr "Permite que o editor acveite soltar arquivos OLE"
 
 #. fmEditorOptionsDialog..SpTBXPanel1..TabControl..Options..gbOptions..ckWordWrap..Caption
 #: dlgSynEditOptions.dfm:425
 msgid "Word wrap"
-msgstr ""
+msgstr "Palavra Envolvida"
 
 #. fmEditorOptionsDialog..SpTBXPanel1..TabControl..Options..gbOptions..ckHalfPageScroll....Hint
 #: dlgSynEditOptions.dfm:436
@@ -1098,11 +1102,13 @@ msgid ""
 "When scrolling with page-up and page-down commands, only scroll a half page "
 "at a time"
 msgstr ""
+"Quando a rolagem com comandos de página para cima e para baixo, apenas rola uma meia página"
+"de uma vez"
 
 #. fmEditorOptionsDialog..SpTBXPanel1..TabControl..Options..gbOptions..ckHalfPageScroll..Caption
 #: dlgSynEditOptions.dfm:437
 msgid "Half page scroll"
-msgstr ""
+msgstr "Meia página de rolagem"
 
 #. fmEditorOptionsDialog..SpTBXPanel1..TabControl..Options..gbOptions..ckThemeSelection..Hint
 #: dlgSynEditOptions.dfm:447
@@ -1112,27 +1118,27 @@ msgstr ""
 #. fmEditorOptionsDialog..SpTBXPanel1..TabControl..Options..gbOptions..ckThemeSelection..Caption
 #: dlgSynEditOptions.dfm:448
 msgid "Theme selection"
-msgstr ""
+msgstr "Seleção da cor do tema"
 
 #. fmEditorOptionsDialog..SpTBXPanel1..TabControl..Options..gbOptions..ckScrollByOneLess..Hint
 #: dlgSynEditOptions.dfm:458
 msgid "Forces scrolling to be one less"
-msgstr ""
+msgstr "Forças de rolagem para ser mínimo"
 
 #. fmEditorOptionsDialog..SpTBXPanel1..TabControl..Options..gbOptions..ckScrollByOneLess..Caption
 #: dlgSynEditOptions.dfm:459
 msgid "Scroll by one less"
-msgstr ""
+msgstr "Rolar mínimo"
 
 #. fmEditorOptionsDialog..SpTBXPanel1..TabControl..Options..gbOptions..ckScrollPastEOF..Hint
 #: dlgSynEditOptions.dfm:469
 msgid "Allows the cursor to go past the end of file marker"
-msgstr ""
+msgstr "Permite que o cursor vá além do fim do marcador de arquivo"
 
 #. fmEditorOptionsDialog..SpTBXPanel1..TabControl..Options..gbOptions..ckScrollPastEOF..Caption
 #: dlgSynEditOptions.dfm:470
 msgid "Scroll past end of file"
-msgstr ""
+msgstr "Rolagem passou do final do arquivo"
 
 #. fmEditorOptionsDialog..SpTBXPanel1..TabControl..Options..gbOptions..ckScrollPastEOL....Hint
 #: dlgSynEditOptions.dfm:482
@@ -1140,21 +1146,23 @@ msgid ""
 "Allows the cursor to go past the last character into the white space at the "
 "end of a line"
 msgstr ""
+"Permite que o cursor passe do último caractere no espaço em branco no"
+"fim da linha"
 
 #. fmEditorOptionsDialog..SpTBXPanel1..TabControl..Options..gbOptions..ckScrollPastEOL..Caption
 #: dlgSynEditOptions.dfm:483
 msgid "Scroll past end of line"
-msgstr ""
+msgstr "Rolagem passou do fim da linha"
 
 #. fmEditorOptionsDialog..SpTBXPanel1..TabControl..Options..gbOptions..ckShowScrollHint....Hint
 #: dlgSynEditOptions.dfm:495
 msgid "Shows a hint of the visible line numbers when scrolling vertically"
-msgstr ""
+msgstr "Mostra uma dica dos números das linhas visíveis ao deslocar verticalmente"
 
 #. fmEditorOptionsDialog..SpTBXPanel1..TabControl..Options..gbOptions..ckShowScrollHint..Caption
 #: dlgSynEditOptions.dfm:496
 msgid "Show scroll hint"
-msgstr ""
+msgstr "Mostrar dica de rolagem"
 
 #. fmEditorOptionsDialog..SpTBXPanel1..TabControl..Options..gbOptions..ckSmartTabs....Hint
 #: dlgSynEditOptions.dfm:508
@@ -1167,67 +1175,71 @@ msgstr ""
 #: dlgSynEditOptions.dfm:509
 msgid "Smart tabs"
 msgstr ""
+"Quando usar a tabulação, o cursor irá para o caractere de espaço não-branco ao lado da"
+"linha anterior"
 
 #. fmEditorOptionsDialog..SpTBXPanel1..TabControl..Options..gbOptions..ckTabsToSpaces..Hint
 #: dlgSynEditOptions.dfm:518
 msgid "Converts a tab character to the number of spaces in Tab Width"
-msgstr ""
+msgstr "Converte um caractere de tabulação para o número de espaços de largura de tabulação"
 
 #. fmEditorOptionsDialog..SpTBXPanel1..TabControl..Options..gbOptions..ckTabsToSpaces..Caption
 #: dlgSynEditOptions.dfm:519
 msgid "Tabs to spaces"
-msgstr ""
+msgstr "Tabulações para espaços"
 
 #. fmEditorOptionsDialog..SpTBXPanel1..TabControl..Options..gbOptions..ckTrimTrailingSpaces..Hint
 #: dlgSynEditOptions.dfm:528
 msgid "Spaces at the end of lines will be trimmed and not saved"
-msgstr ""
+msgstr "Espaços no final das linhas serão cortados e não salvo"
 
 #. fmEditorOptionsDialog..SpTBXPanel1..TabControl..Options..gbOptions..ckTrimTrailingSpaces..Caption
 #: dlgSynEditOptions.dfm:529
 msgid "Trim trailing spaces"
-msgstr ""
+msgstr "Aparar espaço arrastando"
 
 #. fmEditorOptionsDialog..SpTBXPanel1..TabControl..Options..gbOptions..ckTabIndent..Hint
 #: dlgSynEditOptions.dfm:539
 msgid "Tab indents and Shft-Tab unindents"
-msgstr ""
+msgstr "Tab identa e shft-tab desindenta"
 
 #. fmEditorOptionsDialog..SpTBXPanel1..TabControl..Options..gbOptions..ckTabIndent..Caption
 #: dlgSynEditOptions.dfm:540
 msgid "Tab Indent"
-msgstr ""
+msgstr "Tab identa"
 
 #. fmEditorOptionsDialog..SpTBXPanel1..TabControl..Options..gbOptions..ckAltSetsColumnMode....Hint
 #: dlgSynEditOptions.dfm:551
 msgid ""
 "Holding down the Alt Key will put the selection mode into columnar format"
 msgstr ""
+"Segurar a Tecla Alt vai colocar o modo de seleção em formato de colunas"
+
 
 #. fmEditorOptionsDialog..SpTBXPanel1..TabControl..Options..gbOptions..ckAltSetsColumnMode..Caption
 #: dlgSynEditOptions.dfm:552
 msgid "Alt sets column mode"
-msgstr ""
+msgstr "Alt define o modo de coluna"
 
 #. fmEditorOptionsDialog..SpTBXPanel1..TabControl..Options..gbOptions..ckKeepCaretX....Hint
 #: dlgSynEditOptions.dfm:563
 msgid "When moving through lines the X position will always stay the same"
-msgstr ""
+msgstr "Ao mover-se através das linhas a posição X vai ficar sempre a mesma"
 
 #. fmEditorOptionsDialog..SpTBXPanel1..TabControl..Options..gbOptions..ckKeepCaretX..Caption
 #: dlgSynEditOptions.dfm:564
 msgid "Maintain caret column"
-msgstr ""
+msgstr "Manter a coluna com acento circunflexo"
 
 #. fmEditorOptionsDialog..SpTBXPanel1..TabControl..Options..gbOptions..ckScrollHintFollows..Hint
 #: dlgSynEditOptions.dfm:573
 msgid "The scroll hint follows the mouse when scrolling vertically"
-msgstr ""
+msgstr "A dica de rolagem segue o mouse quando se desloca verticalmente"
 
 #. fmEditorOptionsDialog..SpTBXPanel1..TabControl..Options..gbOptions..ckScrollHintFollows..Caption
 #: dlgSynEditOptions.dfm:574
 msgid "Scroll hint follows mouse"
-msgstr ""
+msgstr "Dicas de rolagem seguem o mouse"
 
 #. fmEditorOptionsDialog..SpTBXPanel1..TabControl..Options..gbOptions..ckGroupUndo....Hint
 #: dlgSynEditOptions.dfm:587
@@ -1235,21 +1247,23 @@ msgid ""
 "When undoing/redoing actions, handle all continous changes of the same kind "
 "in one call instead undoing/redoing each command separately"
 msgstr ""
+"Quando desfazer / refazer ações, lidar com todas as mudanças contínuas do mesmo tipo"
+"em uma chamada, em vez de desfazer / refazer cada comando separadamente"
 
 #. fmEditorOptionsDialog..SpTBXPanel1..TabControl..Options..gbOptions..ckGroupUndo..Caption
 #: dlgSynEditOptions.dfm:588
 msgid "Group undo"
-msgstr ""
+msgstr "Grupo desfazer"
 
 #. fmEditorOptionsDialog..SpTBXPanel1..TabControl..Options..gbOptions..ckSmartTabDelete..Hint
 #: dlgSynEditOptions.dfm:598
 msgid "similar to Smart Tabs, but when you delete characters"
-msgstr ""
+msgstr "semelhante ao Tabs inteligentes, mas quando você excluir caracteres"
 
 #. fmEditorOptionsDialog..SpTBXPanel1..TabControl..Options..gbOptions..ckSmartTabDelete..Caption
 #: dlgSynEditOptions.dfm:599
 msgid "Smart tab delete"
-msgstr ""
+msgstr "Guia excluir inteligente"
 
 #. fmEditorOptionsDialog..SpTBXPanel1..TabControl..Options..gbOptions..ckRightMouseMoves....Hint
 #: dlgSynEditOptions.dfm:610
@@ -1257,21 +1271,23 @@ msgid ""
 "When clicking with the right mouse for a popup menu, move the cursor to that "
 "location"
 msgstr ""
+"Ao clicar com o botão direito do mouse para obter um menu pop-up, mova o cursor para esse"
+"local"
 
 #. fmEditorOptionsDialog..SpTBXPanel1..TabControl..Options..gbOptions..ckRightMouseMoves..Caption
 #: dlgSynEditOptions.dfm:611
 msgid "Right mouse moves cursor"
-msgstr ""
+msgstr "Botão direito do mouse move cursor"
 
 #. fmEditorOptionsDialog..SpTBXPanel1..TabControl..Options..gbOptions..ckEnhanceHomeKey..Hint
 #: dlgSynEditOptions.dfm:620
 msgid "enhances home key positioning, similar to visual studio"
-msgstr ""
+msgstr "reforça posicionamento chave valor, semelhante ao visual studio"
 
 #. fmEditorOptionsDialog..SpTBXPanel1..TabControl..Options..gbOptions..ckEnhanceHomeKey..Caption
 #: dlgSynEditOptions.dfm:621
 msgid "Enhance Home Key"
-msgstr ""
+msgstr "Melhorar chave de início"
 
 #. fmEditorOptionsDialog..SpTBXPanel1..TabControl..Options..gbOptions..ckHideShowScrollbars....Hint
 #: dlgSynEditOptions.dfm:633
@@ -1280,11 +1296,14 @@ msgid ""
 "ScrollPastEOL, then it the horizontal bar will always be there (it uses "
 "MaxLength instead)"
 msgstr ""
+"Se ativado, então as barras de rolagem irá mostrar apenas quando necessário. Se você tem"
+"ScrollPastEOL, então a barra horizontal estarão sempre lá (ele usa"
+"MaxLength vez)"
 
 #. fmEditorOptionsDialog..SpTBXPanel1..TabControl..Options..gbOptions..ckHideShowScrollbars..Caption
 #: dlgSynEditOptions.dfm:634
 msgid "Hide scrollbars as necessary"
-msgstr ""
+msgstr "Escode barra de rolagem se necessário"
 
 #. fmEditorOptionsDialog..SpTBXPanel1..TabControl..Options..gbOptions..ckDisableScrollArrows....Hint
 #: dlgSynEditOptions.dfm:646
@@ -1292,91 +1311,93 @@ msgid ""
 "Disables the scroll bar arrow buttons when you can't scroll in that "
 "direction any more"
 msgstr ""
+"Desativa os botões de barra de rolagem quando você não pode rolar em uma"
+"direção"
 
 #. fmEditorOptionsDialog..SpTBXPanel1..TabControl..Options..gbOptions..ckDisableScrollArrows..Caption
 #: dlgSynEditOptions.dfm:647
 msgid "Disable scroll arrows"
-msgstr ""
+msgstr "Desativar setas de rolagem"
 
 #. fmEditorOptionsDialog..SpTBXPanel1..TabControl..Options..gbOptions..ckShowSpecialChars..Hint
 #: dlgSynEditOptions.dfm:657
 msgid "Shows linebreaks, spaces and tabs using special symbols"
-msgstr ""
+msgstr "Mostra quebras de linha, espaços e tabulações usando símbolos especiais"
 
 #. fmEditorOptionsDialog..SpTBXPanel1..TabControl..Options..gbOptions..ckShowSpecialChars..Caption
 #: dlgSynEditOptions.dfm:658
 msgid "Show special chars"
-msgstr ""
+msgstr "Mostra caracteres especiais"
 
 #. fmEditorOptionsDialog..SpTBXPanel1..TabControl..Options..gbOptions..ckEnhanceEndKey..Hint
 #: dlgSynEditOptions.dfm:668
 msgid "Enhances end key similar to JDeveloper"
-msgstr ""
+msgstr "Melhora a tecla de fim semelhante ao JDeveloper"
 
 #. fmEditorOptionsDialog..SpTBXPanel1..TabControl..Options..gbOptions..ckEnhanceEndKey..Caption
 #: dlgSynEditOptions.dfm:669
 msgid "Enhance End Key"
-msgstr ""
+msgstr "Melhora tecla de fim"
 
 #. fmEditorOptionsDialog..SpTBXPanel1..TabControl..Options..gbCaret..Caption
 #: dlgSynEditOptions.dfm:680
 msgid "Caret"
-msgstr ""
+msgstr "circunflexo"
 
 #. fmEditorOptionsDialog..SpTBXPanel1..TabControl..Options..gbCaret..Label2..Caption
 #: dlgSynEditOptions.dfm:689
 msgid "Insert caret:"
-msgstr ""
+msgstr "Inserir circunflexo"
 
 #. fmEditorOptionsDialog..SpTBXPanel1..TabControl..Options..gbCaret..Label4..Caption
 #: dlgSynEditOptions.dfm:696
 msgid "Overwrite caret:"
-msgstr ""
+msgstr "Sobrescrever circunflexo"
 
 #. fmEditorOptionsDialog..SpTBXPanel1..TabControl..Options..gbCaret..cInsertCaret....Items.Strings
 #. fmEditorOptionsDialog..SpTBXPanel1..TabControl..Options..gbCaret..cOverwriteCaret....Items.Strings
 #: dlgSynEditOptions.dfm:707 dlgSynEditOptions.dfm:721
 msgid "Vertical Line"
-msgstr ""
+msgstr "Lina Vertical"
 
 #. fmEditorOptionsDialog..SpTBXPanel1..TabControl..Options..gbCaret..cInsertCaret....Items.Strings
 #. fmEditorOptionsDialog..SpTBXPanel1..TabControl..Options..gbCaret..cOverwriteCaret....Items.Strings
 #: dlgSynEditOptions.dfm:708 dlgSynEditOptions.dfm:722
 msgid "Horizontal Line"
-msgstr ""
+msgstr "Linha horizontal"
 
 #. fmEditorOptionsDialog..SpTBXPanel1..TabControl..Options..gbCaret..cInsertCaret....Items.Strings
 #. fmEditorOptionsDialog..SpTBXPanel1..TabControl..Options..gbCaret..cOverwriteCaret....Items.Strings
 #: dlgSynEditOptions.dfm:709 dlgSynEditOptions.dfm:723
 msgid "Half Block"
-msgstr ""
+msgstr "Meio Bloco"
 
 #. fmEditorOptionsDialog..SpTBXPanel1..TabControl..Options..gbCaret..cInsertCaret....Items.Strings
 #. fmEditorOptionsDialog..SpTBXPanel1..TabControl..Options..gbCaret..cOverwriteCaret....Items.Strings
 #: dlgSynEditOptions.dfm:710 dlgSynEditOptions.dfm:724
 msgid "Block"
-msgstr ""
+msgstr "Bloco"
 
 #. fmEditorOptionsDialog..SpTBXPanel1..TabControl..Display..gbRightEdge..Caption
 #: dlgSynEditOptions.dfm:744
 msgid "Right Edge"
-msgstr ""
+msgstr "Borda Direita"
 
 #. fmEditorOptionsDialog..SpTBXPanel1..TabControl..Display..gbRightEdge..Label3..Caption
 #: dlgSynEditOptions.dfm:753
 msgid "Edge color:"
-msgstr ""
+msgstr "Cor da Borda"
 
 #. fmEditorOptionsDialog..SpTBXPanel1..TabControl..Display..gbRightEdge..Label10..Caption
 #: dlgSynEditOptions.dfm:760
 msgid "Edge Column:"
-msgstr ""
+msgstr "Borda da coluna"
 
 #. fmEditorOptionsDialog..SpTBXPanel1..TabControl..Display..gbGutter..Caption
 #. PageSetupDlg..TabControl..tbMargins..Label11..Caption
 #: dlgSynEditOptions.dfm:785 dlgSynPageSetup.dfm:1532
 msgid "Gutter"
-msgstr ""
+msgstr "Calha"
 
 #. fmEditorOptionsDialog..SpTBXPanel1..TabControl..Display..gbGutter..btnGutterFont..Caption
 #. fmEditorOptionsDialog..SpTBXPanel1..TabControl..Display..gbEditorFont..btnFont..Caption
@@ -1385,37 +1406,37 @@ msgstr ""
 #: dlgSynEditOptions.dfm:817 dlgSynEditOptions.dfm:967
 #: dlgSynPageSetup.dfm:2228 dlgSynPageSetup.dfm:2229
 msgid "Font"
-msgstr ""
+msgstr "Fonte"
 
 #. fmEditorOptionsDialog..SpTBXPanel1..TabControl..Display..gbGutter..ckGutterAutosize..Caption
 #: dlgSynEditOptions.dfm:826
 msgid "Autosize"
-msgstr ""
+msgstr "Tamanho Automático"
 
 #. fmEditorOptionsDialog..SpTBXPanel1..TabControl..Display..gbGutter..ckGutterShowLineNumbers..Caption
 #: dlgSynEditOptions.dfm:835
 msgid "Show line numbers"
-msgstr ""
+msgstr "Mostrar número de linhas"
 
 #. fmEditorOptionsDialog..SpTBXPanel1..TabControl..Display..gbGutter..ckGutterShowLeaderZeros..Caption
 #: dlgSynEditOptions.dfm:844
 msgid "Show leading zeros"
-msgstr ""
+msgstr "Mostrar zeros a esquerda"
 
 #. fmEditorOptionsDialog..SpTBXPanel1..TabControl..Display..gbGutter..ckGutterVisible..Caption
 #: dlgSynEditOptions.dfm:853
 msgid "Visible"
-msgstr ""
+msgstr "Visível"
 
 #. fmEditorOptionsDialog..SpTBXPanel1..TabControl..Display..gbGutter..cbGutterFont..Caption
 #: dlgSynEditOptions.dfm:864
 msgid "Use Gutter Font"
-msgstr ""
+msgstr "Usar fonte de calha"
 
 #. fmEditorOptionsDialog..SpTBXPanel1..TabControl..Display..gbGutter..ckGutterStartAtZero..Caption
 #: dlgSynEditOptions.dfm:874
 msgid "Start at zero"
-msgstr ""
+msgstr "Iniciar em zero"
 
 #. fmEditorOptionsDialog..SpTBXPanel1..TabControl..Display..gbGutter..ckGutterGradient..Hint
 #: dlgSynEditOptions.dfm:883
@@ -1425,32 +1446,32 @@ msgstr ""
 #. fmEditorOptionsDialog..SpTBXPanel1..TabControl..Display..gbGutter..ckGutterGradient..Caption
 #: dlgSynEditOptions.dfm:884
 msgid "Gutter Gradient"
-msgstr ""
+msgstr "Gradiente de calha visível"
 
 #. fmEditorOptionsDialog..SpTBXPanel1..TabControl..Display..gbGutter..Label1..Caption
 #: dlgSynEditOptions.dfm:893
 msgid "Gutter color:"
-msgstr ""
+msgstr "Paleta de cor"
 
 #. fmEditorOptionsDialog..SpTBXPanel1..TabControl..Display..gbBookmarks..Caption
 #: dlgSynEditOptions.dfm:909
 msgid "Bookmarks"
-msgstr ""
+msgstr "Favoritos"
 
 #. fmEditorOptionsDialog..SpTBXPanel1..TabControl..Display..gbBookmarks..ckBookmarkKeys..Caption
 #: dlgSynEditOptions.dfm:917
 msgid "Bookmark keys"
-msgstr ""
+msgstr "Chaves Favorita"
 
 #. fmEditorOptionsDialog..SpTBXPanel1..TabControl..Display..gbBookmarks..ckBookmarkVisible..Caption
 #: dlgSynEditOptions.dfm:926
 msgid "Bookmarks visible"
-msgstr ""
+msgstr "Favoritos visivel"
 
 #. fmEditorOptionsDialog..SpTBXPanel1..TabControl..Display..gbEditorFont..Caption
 #: dlgSynEditOptions.dfm:936
 msgid "Editor Font"
-msgstr ""
+msgstr "Editor de Fonte"
 
 #. fmEditorOptionsDialog..SpTBXPanel1..TabControl..Display..gbLineSpacing..Caption
 #: dlgSynEditOptions.dfm:977
@@ -1460,17 +1481,17 @@ msgstr ""
 #. fmEditorOptionsDialog..SpTBXPanel1..TabControl..Display..gbLineSpacing..Label8..Caption
 #: dlgSynEditOptions.dfm:986
 msgid "Extra Lines:"
-msgstr ""
+msgstr "Linhas Extras"
 
 #. fmEditorOptionsDialog..SpTBXPanel1..TabControl..Display..gbLineSpacing..Label9..Caption
 #: dlgSynEditOptions.dfm:993
 msgid "Tab Width:"
-msgstr ""
+msgstr "Tab largura"
 
 #. fmEditorOptionsDialog..SpTBXPanel1..TabControl..Display..GroupBox2..Caption
 #: dlgSynEditOptions.dfm:1017
 msgid "Active Line Color"
-msgstr ""
+msgstr "Cor da linha ativa"
 
 #. PageSetupDlg..Caption
 #. DocForm..TBXDock1..TBXToolbar1..TBXItem4..Hint
@@ -1483,71 +1504,71 @@ msgstr "Configurar página"
 #. PageSetupDlg..TabControl..tbMargins..Caption
 #: dlgSynPageSetup.dfm:25 dlgSynPageSetup.dfm:371
 msgid "Margins && Options"
-msgstr ""
+msgstr "Magens && Options"
 
 #. PageSetupDlg..TabControl..SpTBXTabItem2..Caption
 #. PageSetupDlg..TabControl..tbHeaderFooter..Caption
 #: dlgSynPageSetup.dfm:29 dlgSynPageSetup.dfm:36
 msgid "Header && Footer"
-msgstr ""
+msgstr "Cabeçalho && Rodapé"
 
 #. PageSetupDlg..TabControl..tbHeaderFooter..GroupBox1..Caption
 #: dlgSynPageSetup.dfm:92
 msgid "Header"
-msgstr ""
+msgstr "Cabeçalho"
 
 #. PageSetupDlg..TabControl..tbHeaderFooter..GroupBox1..GroupBox2..Caption
 #. PageSetupDlg..TabControl..tbHeaderFooter..GroupBox3..GroupBox4..Caption
 #: dlgSynPageSetup.dfm:100 dlgSynPageSetup.dfm:239
 msgid "Appearance"
-msgstr ""
+msgstr "Aparência"
 
 #. PageSetupDlg..TabControl..tbHeaderFooter..GroupBox1..GroupBox2..HeaderLineColorBtn..Caption
 #. PageSetupDlg..TabControl..tbHeaderFooter..GroupBox3..GroupBox4..FooterLineColorBtn..Caption
 #: dlgSynPageSetup.dfm:123 dlgSynPageSetup.dfm:262
 msgid "Line color"
-msgstr ""
+msgstr "Cor da Linha"
 
 #. PageSetupDlg..TabControl..tbHeaderFooter..GroupBox1..GroupBox2..HeaderShadowColorBtn..Caption
 #. PageSetupDlg..TabControl..tbHeaderFooter..GroupBox3..GroupBox4..FooterShadowColorBtn..Caption
 #: dlgSynPageSetup.dfm:132 dlgSynPageSetup.dfm:271
 msgid "Shadow color"
-msgstr ""
+msgstr "Sombreado"
 
 #. PageSetupDlg..TabControl..tbHeaderFooter..GroupBox1..GroupBox2..CBHeaderLine..Caption
 #: dlgSynPageSetup.dfm:141
 msgid "Line under"
-msgstr ""
+msgstr "Linha abaixo"
 
 #. PageSetupDlg..TabControl..tbHeaderFooter..GroupBox1..GroupBox2..CBHeaderBox..Caption
 #. PageSetupDlg..TabControl..tbHeaderFooter..GroupBox3..GroupBox4..CBFooterBox..Caption
 #: dlgSynPageSetup.dfm:149 dlgSynPageSetup.dfm:288
 msgid "Box"
-msgstr ""
+msgstr "Caixa"
 
 #. PageSetupDlg..TabControl..tbHeaderFooter..GroupBox1..GroupBox2..CBHeaderShadow..Caption
 #. PageSetupDlg..TabControl..tbHeaderFooter..GroupBox3..GroupBox4..CBFooterShadow..Caption
 #: dlgSynPageSetup.dfm:157 dlgSynPageSetup.dfm:296
 msgid "Shadow"
-msgstr ""
+msgstr "Sombra"
 
 #. PageSetupDlg..TabControl..tbHeaderFooter..GroupBox1..CBHeaderMirror..Caption
 #. PageSetupDlg..TabControl..tbHeaderFooter..GroupBox3..CBFooterMirror..Caption
 #: dlgSynPageSetup.dfm:166 dlgSynPageSetup.dfm:305
 msgid "Mirror position"
-msgstr ""
+msgstr "Melhor posição"
 
 #. PageSetupDlg..TabControl..tbHeaderFooter..GroupBox1..Label12..Caption
 #. PageSetupDlg..TabControl..tbHeaderFooter..GroupBox3..Label15..Caption
 #: dlgSynPageSetup.dfm:174 dlgSynPageSetup.dfm:313
 msgid "Left"
-msgstr ""
+msgstr "Esquerda"
 
 #. PageSetupDlg..TabControl..tbHeaderFooter..GroupBox1..Label13..Caption
 #. PageSetupDlg..TabControl..tbHeaderFooter..GroupBox3..Label16..Caption
 #: dlgSynPageSetup.dfm:181 dlgSynPageSetup.dfm:320
 msgid "Center"
-msgstr ""
+msgstr "Centro"
 
 #. PageSetupDlg..TabControl..tbHeaderFooter..GroupBox1..Label14..Caption
 #. PageSetupDlg..TabControl..tbHeaderFooter..GroupBox3..Label17..Caption
@@ -1558,7 +1579,7 @@ msgstr ""
 #. PageSetupDlg..TabControl..tbHeaderFooter..GroupBox3..Caption
 #: dlgSynPageSetup.dfm:231
 msgid "Footer"
-msgstr ""
+msgstr "Rodapé"
 
 #. PageSetupDlg..TabControl..tbHeaderFooter..GroupBox3..GroupBox4..CBFooterLine..Caption
 #: dlgSynPageSetup.dfm:280
@@ -1573,7 +1594,7 @@ msgstr ""
 #. PageSetupDlg..TabControl..tbMargins..CBLineNumbers..Caption
 #: dlgSynPageSetup.dfm:1422
 msgid "Line numbers"
-msgstr ""
+msgstr "Linha acima"
 
 #. PageSetupDlg..TabControl..tbMargins..CBLineNumbersInMargin..Caption
 #: dlgSynPageSetup.dfm:1430
@@ -1583,157 +1604,157 @@ msgstr ""
 #. PageSetupDlg..TabControl..tbMargins..CBHighlight..Caption
 #: dlgSynPageSetup.dfm:1438
 msgid "Syntax print"
-msgstr ""
+msgstr "Sintax de impressão"
 
 #. PageSetupDlg..TabControl..tbMargins..CBColors..Caption
 #: dlgSynPageSetup.dfm:1446
 msgid "Use colors"
-msgstr ""
+msgstr "Uso de cores"
 
 #. PageSetupDlg..TabControl..tbMargins..CBWrap..Caption
 #: dlgSynPageSetup.dfm:1454
 msgid "Wrap lines"
-msgstr ""
+msgstr "Contorno"
 
 #. PageSetupDlg..TabControl..tbMargins..Label1..Caption
 #: dlgSynPageSetup.dfm:1462
 msgid "Left:"
-msgstr ""
+msgstr "Esquerda"
 
 #. PageSetupDlg..TabControl..tbMargins..Label2..Caption
 #: dlgSynPageSetup.dfm:1469
 msgid "Right:"
-msgstr ""
+msgstr "Direita"
 
 #. PageSetupDlg..TabControl..tbMargins..Label3..Caption
 #: dlgSynPageSetup.dfm:1476
 msgid "Top:"
-msgstr ""
+msgstr "Topo"
 
 #. PageSetupDlg..TabControl..tbMargins..Label4..Caption
 #: dlgSynPageSetup.dfm:1483
 msgid "Bottom:"
-msgstr ""
+msgstr "Base"
 
 #. PageSetupDlg..TabControl..tbMargins..Label5..Caption
 #: dlgSynPageSetup.dfm:1490
 msgid "Units:"
-msgstr ""
+msgstr "Unidades"
 
 #. PageSetupDlg..TabControl..tbMargins..Label6..Caption
 #: dlgSynPageSetup.dfm:1497
 msgid "Header:"
-msgstr ""
+msgstr "Cabeçalho"
 
 #. PageSetupDlg..TabControl..tbMargins..Label7..Caption
 #: dlgSynPageSetup.dfm:1504
 msgid "Footer:"
-msgstr ""
+msgstr "Rodapé"
 
 #. PageSetupDlg..ActionList1..PageNumCmd..Caption
 #. PageSetupDlg..ActionList1..PageNumCmd..Hint
 #: dlgSynPageSetup.dfm:2198 dlgSynPageSetup.dfm:2199
 msgid "Page number"
-msgstr ""
+msgstr "Número da página"
 
 #. PageSetupDlg..ActionList1..PagesCmd..Caption
 #. PageSetupDlg..ActionList1..PagesCmd..Hint
 #: dlgSynPageSetup.dfm:2204 dlgSynPageSetup.dfm:2205
 msgid "Num. pages"
-msgstr ""
+msgstr "Num. página"
 
 #. PageSetupDlg..ActionList1..TimeCmd..Caption
 #. PageSetupDlg..ActionList1..TimeCmd..Hint
 #: dlgSynPageSetup.dfm:2210 dlgSynPageSetup.dfm:2211
 msgid "Time"
-msgstr ""
+msgstr "Tempo"
 
 #. PageSetupDlg..ActionList1..DateCmd..Caption
 #. PageSetupDlg..ActionList1..DateCmd..Hint
 #: dlgSynPageSetup.dfm:2216 dlgSynPageSetup.dfm:2217
 msgid "Date"
-msgstr ""
+msgstr "Data"
 
 #. PageSetupDlg..ActionList1..TitleCmd..Caption
 #. PageSetupDlg..ActionList1..TitleCmd..Hint
 #: dlgSynPageSetup.dfm:2222 dlgSynPageSetup.dfm:2223
 msgid "Title"
-msgstr ""
+msgstr "Título"
 
 #. PageSetupDlg..ActionList1..BoldCmd..Caption
 #. PageSetupDlg..ActionList1..BoldCmd..Hint
 #: dlgSynPageSetup.dfm:2234 dlgSynPageSetup.dfm:2235
 msgid "Bold"
-msgstr ""
+msgstr "Negrito"
 
 #. PageSetupDlg..ActionList1..ItalicCmd..Caption
 #. PageSetupDlg..ActionList1..ItalicCmd..Hint
 #: dlgSynPageSetup.dfm:2240 dlgSynPageSetup.dfm:2241
 msgid "Italic"
-msgstr ""
+msgstr "Itálico"
 
 #. PageSetupDlg..ActionList1..UnderlineCmd..Caption
 #. PageSetupDlg..ActionList1..UnderlineCmd..Hint
 #: dlgSynPageSetup.dfm:2246 dlgSynPageSetup.dfm:2247
 msgid "Underline"
-msgstr ""
+msgstr "Sublinhado"
 
 #. PrintPreviewDlg..Caption
 #. DocForm..TBXDock1..TBXToolbar1..TBXItem6..Hint
 #. WebPreviewForm..TBXDock1..TBXToolbar1..TBXItem6..Hint
 #: dlgSynPrintPreview.dfm:6 frmDocView.dfm:70 frmWebPreview.dfm:69
 msgid "Print Preview"
-msgstr ""
+msgstr "Visualizar impressão"
 
 #. PrintPreviewDlg..ToolbarDock..SpTBXToolbar1..tbiZoom..tbiWholePage..Caption
 #: dlgSynPrintPreview.dfm:60
 msgid "Whole page"
-msgstr ""
+msgstr "Página inteira"
 
 #. PrintPreviewDlg..ToolbarDock..SpTBXToolbar1..tbiZoom..tbiWholePage..Hint
 #: dlgSynPrintPreview.dfm:61
 msgid "Show whole page"
-msgstr ""
+msgstr "Mostrar página inteira"
 
 #. PrintPreviewDlg..ToolbarDock..SpTBXToolbar1..tbiZoom..tbiPageWidth..Caption
 #: dlgSynPrintPreview.dfm:66
 msgid "Page width"
-msgstr ""
+msgstr "Largura da página"
 
 #. PrintPreviewDlg..ToolbarDock..SpTBXToolbar1..tbiZoom..tbiPageWidth..Hint
 #: dlgSynPrintPreview.dfm:67
 msgid "Fit page width into window"
-msgstr ""
+msgstr "Caber página na Largura da janela"
 
 #. PrintPreviewDlg..ToolbarDock..SpTBXToolbar1..tbiZoom..tbi25..Hint
 #: dlgSynPrintPreview.dfm:75
 msgid "25% zoom"
-msgstr ""
+msgstr "25% zoom"
 
 #. PrintPreviewDlg..ToolbarDock..SpTBXToolbar1..tbiZoom..tbi50..Hint
 #: dlgSynPrintPreview.dfm:81
 msgid "50% zoom"
-msgstr ""
+msgstr "50% zoom"
 
 #. PrintPreviewDlg..ToolbarDock..SpTBXToolbar1..tbiZoom..tbi100..Hint
 #: dlgSynPrintPreview.dfm:87
 msgid "100% zoom"
-msgstr ""
+msgstr "100% zoom"
 
 #. PrintPreviewDlg..ToolbarDock..SpTBXToolbar1..tbiZoom..tbi200..Hint
 #: dlgSynPrintPreview.dfm:93
 msgid "200% zoom"
-msgstr ""
+msgstr "200% zoom"
 
 #. PrintPreviewDlg..ToolbarDock..SpTBXToolbar1..tbiZoom..tbi400..Hint
 #: dlgSynPrintPreview.dfm:99
 msgid "400% zoom"
-msgstr ""
+msgstr "400% zoom"
 
 #. PrintPreviewDlg..ActionList..FirstCmd..Caption
 #: dlgSynPrintPreview.dfm:601
 msgid "First"
-msgstr ""
+msgstr "Principal"
 
 #. PrintPreviewDlg..ActionList..FirstCmd..Hint
 #: dlgSynPrintPreview.dfm:602
@@ -1743,54 +1764,54 @@ msgstr ""
 #. PrintPreviewDlg..ActionList..PrevCmd..Caption
 #: dlgSynPrintPreview.dfm:609
 msgid "Previous"
-msgstr ""
+msgstr "Anterior"
 
 #. PrintPreviewDlg..ActionList..PrevCmd..Hint
 #: dlgSynPrintPreview.dfm:610
 msgid "Previous|Go to previous page"
-msgstr ""
+msgstr "Anterior|Ir para página anterior"
 
 #. PrintPreviewDlg..ActionList..NextCmd..Caption
 #: dlgSynPrintPreview.dfm:617
 msgid "Next"
-msgstr ""
+msgstr "Próxima"
 
 #. PrintPreviewDlg..ActionList..NextCmd..Hint
 #: dlgSynPrintPreview.dfm:618
 msgid "Next|Go to next page"
-msgstr ""
+msgstr "Próxima|Ir para próxima página"
 
 #. PrintPreviewDlg..ActionList..LastCmd..Caption
 #: dlgSynPrintPreview.dfm:625
 msgid "Last"
-msgstr ""
+msgstr "Ultima"
 
 #. PrintPreviewDlg..ActionList..LastCmd..Hint
 #: dlgSynPrintPreview.dfm:626
 msgid "Last|Go to last page"
-msgstr ""
+msgstr "Ultima|Ir para ultima página"
 
 #. PrintPreviewDlg..ActionList..ZoomCmd..Caption
 #: dlgSynPrintPreview.dfm:633
 msgid "Zoom"
-msgstr ""
+msgstr "Zoom"
 
 #. PrintPreviewDlg..ActionList..ZoomCmd..Hint
 #: dlgSynPrintPreview.dfm:634
 msgid "Zoom|Zoom In/Out"
-msgstr ""
+msgstr "Zoom|Zoom Entrada/Saída"
 
 #. PrintPreviewDlg..ActionList..PrintCmd..Caption
 #. DocForm..TBXDock1..TBXToolbar1..TBXItem5..Hint
 #. WebPreviewForm..TBXDock1..TBXToolbar1..TBXItem5..Hint
 #: dlgSynPrintPreview.dfm:641 frmDocView.dfm:75 frmWebPreview.dfm:74
 msgid "Print"
-msgstr ""
+msgstr "Imprimir"
 
 #. PrintPreviewDlg..ActionList..PrintCmd..Hint
 #: dlgSynPrintPreview.dfm:642
 msgid "Print|Print the document"
-msgstr ""
+msgstr "Imprimir|Imprimir o documento"
 
 #. PrintPreviewDlg..ActionList..CloseCmd..Caption
 #: dlgSynPrintPreview.dfm:649
@@ -1800,27 +1821,27 @@ msgstr "Fechar"
 #. PrintPreviewDlg..ActionList..CloseCmd..Hint
 #: dlgSynPrintPreview.dfm:650
 msgid "Close|Close Print Preview"
-msgstr ""
+msgstr "Fechar|Fechar visualização de impressão"
 
 #. fmToDoOptions..Caption
 #: dlgToDoOptions.dfm:5
 msgid "To Do Options"
-msgstr ""
+msgstr "Para optar"
 
 #. fmToDoOptions..pnlBG..gbxTokens..Caption
 #: dlgToDoOptions.dfm:33
 msgid "To Do Tokens"
-msgstr ""
+msgstr "Para fichar"
 
 #. fmToDoOptions..pnlBG..gbxTokens..btnInsert..Caption
 #: dlgToDoOptions.dfm:41
 msgid "&Insert"
-msgstr ""
+msgstr "&Inserir"
 
 #. fmToDoOptions..pnlBG..gbxTokens..btnApply..Caption
 #: dlgToDoOptions.dfm:50
 msgid "&Apply"
-msgstr ""
+msgstr "&Aplicar"
 
 #. fmToDoOptions..pnlBG..gbxTokens..cboPriority....Items.Strings
 #. Programmer's name for it: SHigh
@@ -1832,53 +1853,53 @@ msgstr ""
 #. Programmer's name for it: SNormal
 #: dlgToDoOptions.dfm:93 frmToDo.pas:266
 msgid "Normal"
-msgstr ""
+msgstr "Alto"
 
 #. fmToDoOptions..pnlBG..gbxTokens..cboPriority....Items.Strings
 #. Programmer's name for it: SLow
 #: dlgToDoOptions.dfm:94 frmToDo.pas:267
 msgid "Low"
-msgstr ""
+msgstr "Lento"
 
 #. fmToDoOptions..pnlBG..gbxTokens..lblPriority..Caption
 #: dlgToDoOptions.dfm:101
 msgid "&Priority"
-msgstr ""
+msgstr "&Prioridade"
 
 #. fmToDoOptions..pnlBG..gbxTokens..lblToken..Caption
 #: dlgToDoOptions.dfm:109
 msgid "To&ken"
-msgstr ""
+msgstr "Sim&bolo"
 
 #. fmToDoOptions..pnlBG..gbxOptions..cbShowTokens..Caption
 #: dlgToDoOptions.dfm:126
 msgid "&Show tokens in description"
-msgstr ""
+msgstr "&Mostrar simbolos na descrição"
 
 #. fmToDoOptions..pnlBG..gbxSearchFiles..Caption
 #: dlgToDoOptions.dfm:136
 msgid "Search for To Do Tokens"
-msgstr ""
+msgstr "Pesquisar Simbolos"
 
 #. fmToDoOptions..pnlBG..gbxSearchFiles..radScanOpen..Caption
 #: dlgToDoOptions.dfm:165
 msgid "Scan &open files"
-msgstr ""
+msgstr "Digitalizar &arquivos abertos"
 
 #. fmToDoOptions..pnlBG..gbxSearchFiles..radScanDir..Caption
 #: dlgToDoOptions.dfm:176
 msgid "Scan &directories"
-msgstr ""
+msgstr "Digitalizar &diretorios"
 
 #. fmToDoOptions..pnlBG..gbxSearchFiles..radScanProject..Caption
 #: dlgToDoOptions.dfm:187
 msgid "Scan &project files"
-msgstr ""
+msgstr "Arquivos de projeto de digitalização"
 
 #. ToolProperties..Caption
 #: dlgToolProperties.dfm:5
 msgid "External Tool Properties"
-msgstr ""
+msgstr "Propriedades de Ferramentas Externas"
 
 #. ToolProperties..Panel1..TabControl..SpTBXTabItem1..Caption
 #. ToolProperties..Panel1..TabControl..tabProperties..Caption
@@ -1886,58 +1907,58 @@ msgstr ""
 #: dlgToolProperties.dfm:69 dlgToolProperties.dfm:217
 #: frmProjectExplorer.dfm:301
 msgid "&Properties"
-msgstr ""
+msgstr "P&ropriedades"
 
 #. ToolProperties..Panel1..TabControl..SpTBXTabItem2..Caption
 #. ToolProperties..Panel1..TabControl..tabEnvironment..Caption
 #: dlgToolProperties.dfm:73 dlgToolProperties.dfm:80
 msgid "&Environment"
-msgstr ""
+msgstr "&Ambiente"
 
 #. ToolProperties..Panel1..TabControl..tabEnvironment..cbUseCustomEnv..Caption
 #: dlgToolProperties.dfm:128
 msgid "Use Customized Environment"
-msgstr ""
+msgstr "Usar ambiente customizado"
 
 #. ToolProperties..Panel1..TabControl..tabProperties..GroupBox1..Label17..Caption
 #: dlgToolProperties.dfm:249
 msgid "(required)"
-msgstr ""
+msgstr "(necessário)"
 
 #. ToolProperties..Panel1..TabControl..tabProperties..GroupBox2..Caption
 #: dlgToolProperties.dfm:277
 msgid "Command"
-msgstr ""
+msgstr "Comando"
 
 #. ToolProperties..Panel1..TabControl..tabProperties..GroupBox2..Label2..Caption
 #: dlgToolProperties.dfm:372
 msgid "&Application:"
-msgstr ""
+msgstr "Apl&icação"
 
 #. ToolProperties..Panel1..TabControl..tabProperties..GroupBox4..Caption
 #: dlgToolProperties.dfm:405
 msgid "Shortcut and Context"
-msgstr ""
+msgstr "Atalho e Contexto"
 
 #. ToolProperties..Panel1..TabControl..tabProperties..GroupBox4..lbShortcut..Caption
 #: dlgToolProperties.dfm:413
 msgid "&Shortcut:"
-msgstr ""
+msgstr "A&talho"
 
 #. ToolProperties..Panel1..TabControl..tabProperties..GroupBox4..lbContext..Caption
 #: dlgToolProperties.dfm:421
 msgid "Conte&xt:"
-msgstr ""
+msgstr "Conte&xto"
 
 #. ToolProperties..Panel1..TabControl..tabProperties..GroupBox4..Label13..Caption
 #: dlgToolProperties.dfm:429
 msgid "Sa&ve files:"
-msgstr ""
+msgstr "Sal&var Arquivos"
 
 #. ToolProperties..Panel1..TabControl..tabProperties..GroupBox4..hkShortCut..Hint
 #: dlgToolProperties.dfm:437
 msgid "Allows you to specify a menu shortcut for the tool"
-msgstr ""
+msgstr "Permite que você especifique um atalho de menu para a ferramenta"
 
 #. ToolProperties..Panel1..TabControl..tabProperties..GroupBox4..cbContext..Hint
 #: dlgToolProperties.dfm:448
@@ -1945,26 +1966,28 @@ msgid ""
 "Specifies the context in which\n"
 "the tool is enabled."
 msgstr ""
+"Especifica o contexto em que \ n"
+"a ferramenta é activada."
 
 #. ToolProperties..Panel1..TabControl..tabProperties..GroupBox4..cbContext....Items.Strings
 #: dlgToolProperties.dfm:453
 msgid "Always enabled"
-msgstr ""
+msgstr "Sempre habilitado"
 
 #. ToolProperties..Panel1..TabControl..tabProperties..GroupBox4..cbContext....Items.Strings
 #: dlgToolProperties.dfm:454
 msgid "Active editor"
-msgstr ""
+msgstr "Editor ativo"
 
 #. ToolProperties..Panel1..TabControl..tabProperties..GroupBox4..cbContext....Items.Strings
 #: dlgToolProperties.dfm:455
 msgid "Active Python file"
-msgstr ""
+msgstr "Arquivo Python ativo"
 
 #. ToolProperties..Panel1..TabControl..tabProperties..GroupBox4..cbContext....Items.Strings
 #: dlgToolProperties.dfm:456
 msgid "Selection available"
-msgstr ""
+msgstr "Seleção disponível"
 
 #. ToolProperties..Panel1..TabControl..tabProperties..GroupBox4..cbSaveFiles....Items.Strings
 #. ToolProperties..Panel1..TabControl..tabProperties..GroupBox3..cbStandardInput....Items.Strings
@@ -1972,12 +1995,12 @@ msgstr ""
 #: dlgToolProperties.dfm:467 dlgToolProperties.dfm:578
 #: dlgToolProperties.dfm:596
 msgid "None"
-msgstr ""
+msgstr "Nenhum"
 
 #. ToolProperties..Panel1..TabControl..tabProperties..GroupBox4..cbSaveFiles....Items.Strings
 #: dlgToolProperties.dfm:468
 msgid "Active only"
-msgstr ""
+msgstr "Somente ativo"
 
 #. ToolProperties..Panel1..TabControl..tabProperties..GroupBox4..cbSaveFiles....Items.Strings
 #: dlgToolProperties.dfm:469
