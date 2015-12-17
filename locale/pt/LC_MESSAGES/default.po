@@ -6926,3 +6926,4 @@ msgstr ""
 #: VirtualTrees.pas:3944
 msgid "Clipboard operation failed."
 msgstr ""
+
